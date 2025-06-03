@@ -1,6 +1,6 @@
 # 📊 Fiyat Takip Uygulaması
 Fiyat Takip Uygulaması, Windows Forms (C#) ile geliştirilen, kullanıcıların finansal bilgilerini güncel olarak görüntülemesini ve manuel olarak veri girmesini sağlayan bir masaüstü uygulamasıdır.
-# Geliştirme aşamasında olan bir proje %65
+# Geliştirme aşamasında olan bir proje %25
 
 
 
