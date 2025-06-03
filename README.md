@@ -1,5 +1,5 @@
 # 📊 Fiyat Takip Uygulaması
-Fiyat Takip Uygulaması, Windows Forms (C#) ile geliştirilen, kullanıcıların altın fiyatlarını (Çeyrek, Gram, Tam) güncel olarak görüntülemesini ve manuel olarak veri girmesini sağlayan bir masaüstü uygulamasıdır. 
+Fiyat Takip Uygulaması, Windows Forms (C#) ile geliştirilen, kullanıcıların finans bilgilerini güncel olarak görüntülemesini ve manuel olarak veri girmesini sağlayan bir masaüstü uygulamasıdır. 
 # Geliştirme aşamasında olan bir proje %65
 
 
